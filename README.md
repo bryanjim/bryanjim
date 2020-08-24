@@ -2,7 +2,7 @@
 
 ## New grad software engineer
 - 🎓  UC Santa Cruz '20
-- 🌱  I’m currently learning everything
+- 🌱  I’m currently learning Machine Learning
 - 🥅  2020 Goals: Contribute to more Open Source projects
 
 ### Connect with me:
